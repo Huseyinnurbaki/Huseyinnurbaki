@@ -1,16 +1,55 @@
+![Alt Text](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
-![Alt Text](https://media.giphy.com/media/ffd0F6WNcRJMQ/giphy.gif?cid=ecf05e47q1qh8y9151fdi0wnj8udkmuez67c5m0knwolljlh&rid=giphy.gif&ct=g)
+
+# Get in touch !
+
+<a href="https://www.linkedin.com/in/huseyinnurbaki/" title="Follow me on LinkedIn">
+  <img
+    width="30"
+    alt="Follow/Add me on LinkedIn"
+    src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg"
+  /></a>
+&nbsp;
+<a href="https://medium.com/@huseyinnurbaki" title="Follow me on Medium">
+  <img
+    width="30"
+    alt="Follow me on Medium"
+    src="https://www.svgrepo.com/show/342026/medium.svg"
+  /></a>
+
 
 
 <!--
-**Huseyinnurbaki/Huseyinnurbaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Interests
+&nbsp;
+  <img
+    width="24"
+    alt="CNCF"
+    src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4"
+  />
+&nbsp;
+  <img
+    width="24"
+    alt="k8s"
+    src="https://www.svgrepo.com/show/353983/kubernetes.svg"
+  />
+&nbsp;
+  <img
+    width="24"
+    alt="TS"
+    src="https://www.svgrepo.com/show/303600/typescript-logo.svg"
+  />
+&nbsp;
+  <img
+    width="24"
+    alt="JS"
+    src="https://www.svgrepo.com/show/353925/javascript.svg"
+  />
+&nbsp;
+  <img
+    width="24"
+    alt="React"
+    src="https://www.svgrepo.com/show/303500/react-1-logo.svg"
+  />
+&nbsp;
 -->
