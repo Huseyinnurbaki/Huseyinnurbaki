@@ -17,7 +17,15 @@
     src="https://www.svgrepo.com/show/342026/medium.svg"
   /></a>
 
+### Latest Medium Stories: 
+#### [Part 1: Containerizing a NestJS application with Docker](https://medium.com/@huseyinnurbaki/nestjs-kubernetes-deployment-part-1-containerization-1e06b054b875)
+#### [Part 2: Kubernetes Deployment](https://medium.com/@huseyinnurbaki/nestjs-kubernetes-deployment-part-2-deployment-dad327dee631)
+#### [Part 3: Bonus: Ingress Configuration](https://medium.com/@huseyinnurbaki/nestjs-kubernetes-deployment-part-3-ingress-configuration-c7e77a3d24a8)
+#### [Part 4: Bonus: Kubernetes CronJob - NestJS](https://medium.com/@huseyinnurbaki/nestjs-kubernetes-deployment-part-4-kubernetes-cronjob-nestjs-84d52268e3b1)
 
+#### [Git Tips](https://medium.com/@huseyinnurbaki/tips-on-git-4f221d613468)
+#### [Sobriquets of Repulsive Software Engineers](https://medium.com/@huseyinnurbaki/sobriquets-of-repulsive-software-engineers-e62c82d2d10b)
+#### [Crypto Watchdog](https://medium.com/@huseyinnurbaki/crypto-watchdog-7f7d95d7b8f0)
 
 <!--
 ### Interests
