@@ -1,6 +1,3 @@
-![Alt Text](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
-
-
 # Get in touch !
 
 <a href="https://www.linkedin.com/in/huseyinnurbaki/" title="Follow me on LinkedIn">
@@ -26,7 +23,9 @@
 #### [Git Tips](https://medium.com/@huseyinnurbaki/tips-on-git-4f221d613468)
 #### [Sobriquets of Repulsive Software Engineers](https://medium.com/@huseyinnurbaki/sobriquets-of-repulsive-software-engineers-e62c82d2d10b)
 #### [Crypto Watchdog](https://medium.com/@huseyinnurbaki/crypto-watchdog-7f7d95d7b8f0)
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyinnurbaki&theme=highcontrast&show_icons=true)
+---
 <!--
 ### Interests
 &nbsp;
