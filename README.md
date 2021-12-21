@@ -24,7 +24,7 @@
 #### [Sobriquets of Repulsive Software Engineers](https://medium.com/@huseyinnurbaki/sobriquets-of-repulsive-software-engineers-e62c82d2d10b)
 #### [Crypto Watchdog](https://medium.com/@huseyinnurbaki/crypto-watchdog-7f7d95d7b8f0)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyinnurbaki&theme=highcontrast&show_icons=true)
+![Huseyinnurbaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyinnurbaki&theme=highcontrast&show_icons=true)
 ---
 <!--
 ### Interests
