@@ -83,5 +83,9 @@
 
 </div>
 
+<div align="right">
 
-[![Visits](https://komarev.com/ghpvc/?username=Huseyinnurbaki&logo=GitHub&label=visits&color=9EFF1F&logoColor=white&style=flat-square)](https://github.com/Huseyinnurbaki)
+[![Visits](https://komarev.com/ghpvc/?username=Huseyinnurbaki&logo=GitHub&label=visits&color=red&logoColor=white&style=flat-square)](https://github.com/Huseyinnurbaki)
+
+</div>
+
