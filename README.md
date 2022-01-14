@@ -16,7 +16,6 @@
 #### [Git Tips](https://medium.com/@huseyinnurbaki/tips-on-git-4f221d613468)
 #### [Sobriquets of Repulsive Software Engineers](https://medium.com/@huseyinnurbaki/sobriquets-of-repulsive-software-engineers-e62c82d2d10b)
 
-![Huseyinnurbaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyinnurbaki&theme=highcontrast&show_icons=true)
 -->
 
   
@@ -87,6 +86,15 @@
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
 </details>
+  
+ <details>
+  <summary> ⭐ Github Stats </summary>
+
+  ![Huseyinnurbaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyinnurbaki&theme=highcontrast&show_icons=true)
+
+
+</details>
+
 </div>
 <div align="right">
 
