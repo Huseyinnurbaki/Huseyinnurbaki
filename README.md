@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi 👋
-
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hhaluk.me)
 
@@ -10,48 +8,56 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://huseyinnurbaki.medium.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyinnurbaki@gmail.com)
 
+
+<!---
 ### Checkout my latest Medium Stories ⬇️
 #### [Containerize Go + SQLite with Docker](https://huseyinnurbaki.medium.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
 #### [Part 1-2-3-4: NestJS Containerization & Kubernetes Deployment Series](https://huseyinnurbaki.medium.com/nestjs-kubernetes-deployment-part-1-containerization-1e06b054b875)
 #### [Git Tips](https://medium.com/@huseyinnurbaki/tips-on-git-4f221d613468)
 #### [Sobriquets of Repulsive Software Engineers](https://medium.com/@huseyinnurbaki/sobriquets-of-repulsive-software-engineers-e62c82d2d10b)
 
-  
 ![Huseyinnurbaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyinnurbaki&theme=highcontrast&show_icons=true)
+-->
 
-### ☁ Cloud & Automation & Metrics/Monitoring
+  
+  <details>
+  <summary> ☁ Cloud & Automation & Metrics/Monitoring </summary>
 
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![DO](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![GA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-![K8S](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
-  
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 
+![K8S](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+</details>
 
-### 🗣️ Languages
+  <details>
+  <summary> 🗣️ Programming Languages </summary>
+
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
+</details>
   
-### 🚀 Software Development & Tools
+  
+ <details>
+  <summary> 🚀 Software Development & Tools </summary>
 
   
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -80,9 +86,8 @@
 ![lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
-
+</details>
 </div>
-
 <div align="right">
 
 [![Visits](https://komarev.com/ghpvc/?username=Huseyinnurbaki&logo=GitHub&label=visits&color=red&logoColor=white&style=flat-square)](https://github.com/Huseyinnurbaki)
