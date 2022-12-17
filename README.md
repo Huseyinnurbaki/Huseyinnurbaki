@@ -14,7 +14,7 @@
  <details>
   <summary> 📌 Latest Medium Stories  </summary>
 
-
+  #### [Containerize monorepo project (NextJS + other apps) powered by Turbo](https://huseyinnurbaki.medium.com/containerize-monorepo-project-nextjs-other-apps-powered-by-turbo-with-docker-ecee3a42cbb7)
   #### [Containerizing Go + React & Automating w/ GitHub Actions | Part 1](https://huseyinnurbaki.medium.com/containerizing-go-react-automating-w-github-actions-part-1-670f45306194)
   #### [Containerize Go + SQLite with Docker](https://huseyinnurbaki.medium.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
   #### [Part 1-2-3-4: NestJS Containerization & Kubernetes Deployment Series](https://huseyinnurbaki.medium.com/nestjs-kubernetes-deployment-part-1-containerization-1e06b054b875)
