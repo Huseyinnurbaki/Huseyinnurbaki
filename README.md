@@ -10,6 +10,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://huseyinnurbaki.medium.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyinnurbaki@gmail.com)
 
+ ## [🔥🔥🔥 AI-Powered online word game klues.online is now in beta 🔥🔥🔥](https://www.klues.online/)
 
  <details>
   <summary> 📌 Latest Medium Stories  </summary>
